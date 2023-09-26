@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import pandas_ta as ta
 import ccxt
 
 exchange = ccxt.binance()
